@@ -1,0 +1,197 @@
+body {
+    text-align: left;
+    padding-left: 850px;
+    padding-right: 100px;
+    padding-top: 40px;
+    background-image: url("img/bg.jpg");
+    background-color: white;
+    background-repeat: no-repeat;
+    font-family: Barlow, sans-serif;
+    font-size: 25px;
+    color: #2A4A5C;
+}
+.main-icon {
+    position: absolute;
+    left: 50px;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+header {
+    line-height: 40px;
+}
+
+.register-other {
+    width: 340px;
+    height: 47px;
+    margin-top: 40px;
+    border: 0;
+}
+
+.facebook {
+    margin-left: 10px;
+    background-color: #255A9B;
+}
+
+.facebook:hover {
+    background-color: #2d6cba;
+}
+
+.facebook:active {
+    background-color: #204e87;
+}
+
+.facebook:focus {
+    outline: solid 3px #00eaff;
+}
+
+.linked {
+    margin-left: 30px;
+    background-color: #0076B6;
+}
+
+.linked:hover {
+    background-color: #008edf;
+}
+
+.linked:active {
+    background-color: #0080c8;
+}
+
+.linked:focus {
+    outline: solid 3px #00eaff;
+}
+
+.icons {
+    float: left;
+}
+
+.text-in-buttons {
+    color: white;
+    font-size: 1.3em;
+    padding-right: 50px;
+}
+
+.or {
+    font-size: 0.55em;
+    padding-top: 40px;
+    padding-left: 360px;
+    font-weight: 400;
+}
+
+.fields {
+    position: absolute;
+    width: 332px;
+    height: 40px;
+    top: 430px;
+    font-family: "Barlow", sans-serif;
+    background-color: white;
+    border-left: solid 1px #3698FB;
+    border-bottom: solid 1px #EEEEEE;
+    border-top: solid 1px #EEEEEE;
+    border-right: solid 1px #EEEEEE;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.fields:focus {
+    outline: solid 3px #00eaff;
+}
+
+.email-design {
+    left: 863px;
+}
+
+.text-in-email {
+    position: absolute;
+    left: 875px;
+    font-size: 13px;
+    top: 437px;
+    color: #7B8A92;
+}
+
+.phone-design {
+    left: 1243px;
+}
+
+.text-in-phone {
+    position: absolute;
+    left: 1250px;
+    font-size: 13px;
+    top: 437px;
+    color: #7B8A92;
+}
+
+.after-forms {
+    padding-top: 150px;
+    padding-left: 10px;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.after-forms-addiction {
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.radio-text {
+    font-size: 17px;
+    color: black;
+    display: inline-block;
+    padding-left: 55px;
+}
+
+.radio-itself:focus {
+    outline: solid 3px #00eaff;
+}
+
+.tip {
+    margin-top: 15px;
+    font-size: 15px;
+    width: 260px;
+    line-height: 20px;
+    padding: 10px;
+    box-shadow: 0 4px 16px #EEEEEE;
+    color: #7B8A92;
+}
+
+.final-checkbox {
+    position: absolute;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+.checkbox-itself:focus {
+    outline: solid 3px #00eaff;
+}
+
+.link:focus {
+    outline: solid 3px #00eaff;
+}
+
+.create-button {
+    font-family: "Barlow", sans-serif;
+    position: absolute;
+    margin-top: 100px;
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: #3698FB;
+    border: none;
+    border-radius: 5%;
+    font-size: 16px;
+}
+
+.create-button:hover {
+    background-color: #48a3ff;
+}
+
+.create-button:active {
+    background-color: #1e78ca;
+}
+
+.create-button:focus {
+    outline: solid 3px #00eaff;
+}
